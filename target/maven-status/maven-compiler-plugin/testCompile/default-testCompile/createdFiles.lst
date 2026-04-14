@@ -1,0 +1,7 @@
+utils\ExcelUtils.class
+Base\BaseTest.class
+Pages\WifiPage.class
+Pages\PreferencePage.class
+Base\BasePage.class
+Pages\HomePage.class
+tests\wifitest.class
