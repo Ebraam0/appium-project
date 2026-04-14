@@ -10,5 +10,4 @@ jobs:
     steps:
       - name: Trigger Jenkins Job
         run: |
-          curl -X POST https://serve-manatee-legged.ngrok-free.dev/job/AppiumTest/build \
-          --user Ebraam:11847f9334860653231fb6ad701ff54877
+          curl -X POST "https://serve-manatee-legged.ngrok-free.dev/job/AppiumTest/build" --user "Ebraam:11847f9334860653231fb6ad701ff54877"
